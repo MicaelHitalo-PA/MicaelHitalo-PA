@@ -6,7 +6,7 @@
 
 <p align="left">
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 LANGUAGES AND TECHNOLOGIES
 
 <img 
     align="left" 
