@@ -1,4 +1,4 @@
-## Micael Hítalo
+#💻 Micael Hítalo
 
 **`FullStack Developer`**
 
@@ -7,10 +7,10 @@ I started my career in Digital Marketing in 2020 and began my transition to IT i
 My main focus is web development, but I also have knowledge in Agile Project Management, using Scrum and Kanban.
 
 ## English
+
 ## Portuguese
+
 ## Spanish
-
-
 
 <p align="left">
 
@@ -93,5 +93,3 @@ My main focus is web development, but I also have knowledge in Agile Project Man
 
 <br/>
 <br/>
-
-
