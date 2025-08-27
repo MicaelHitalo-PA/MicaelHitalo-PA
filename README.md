@@ -1,16 +1,16 @@
 # 💻 Micael Hítalo
 
-**`FullStack Developer`**
+**`FullStack Developer`** **`Project Manager`**
 
 My name is Micael Hítalo, I am 27 years old, originally from Bahia, Brazil, but currently living in Paraná, Brazil.
 I started my career in Digital Marketing in 2020 and began my transition to IT in 2023, when I enrolled in a Systems Analysis and Development course and started studying through platforms such as DIO and Hashtag Treinamentos.
 My main focus is web development, but I also have knowledge in Agile Project Management, using Scrum and Kanban.
 
-## English
+### English
 
-## Portuguese
+### Portuguese
 
-## Spanish
+### Spanish
 
 <p align="left">
 
